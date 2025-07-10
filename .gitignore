@@ -1,0 +1,8 @@
+# Игнорируем браузеры Playwright
+/ms-playwright/
+
+# Игнорируем служебные файлы
+node_modules/
+playwright-report/
+test-results/
+package-lock.json
