@@ -35,5 +35,4 @@ test('Check Reddit Popular Feed', async ({ page }) => {
 //  const count = await posts.count();
 //  testInfo.annotations.push({ type: 'Посты', description: `Найдено: ${count}` });
 //});
-
  // запуск тестов: npx playwright test reddit-popular.spec.js --headed
